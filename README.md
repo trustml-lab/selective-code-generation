@@ -9,10 +9,6 @@ Official implementation of the paper:
 > Jaewoo Jeong, Taesoo Kim, and Sangdon Park 
 
 
-## Code 
-
-To be updated
-
 ## Citation
 
 If you find this repository useful, please cite the paper:
